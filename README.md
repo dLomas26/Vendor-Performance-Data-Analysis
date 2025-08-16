@@ -25,3 +25,36 @@ This project delivers insights into **profitability, stock turnover, and vendor 
 - Provide **data-driven recommendations** for reducing losses and optimizing purchasing strategy  
 
 ---
+
+## 📈 Power BI Dashboard
+
+> File: `vendor_performance_dashboard.pbix`  
+
+Includes:
+- 📊 **Top vendors by sales and margins**
+- 🔥 **Profitability vs. stock turnover heatmap**
+- 📉 **Vendors with high sales but low margins**
+- 📈 **Brand-level sales and cost analysis**
+
+---
+
+## 📄 Report Summary
+
+> File: `Report.pdf`  
+
+Covers:
+- Descriptive statistics and distributions  
+- Outlier detection and correlation insights  
+- Vendor tier performance validation with statistical tests  
+- Strategic recommendations for business decisions  
+
+---
+
+## 🛠️ Tools & Tech Stack
+
+- **Python** – Pandas, SQLite 
+- **SQL** – Joins, aggregations 
+- **Jupyter Notebooks** – Data analysis & visualization  
+- **Power BI** – Interactive dashboard  
+
+---
